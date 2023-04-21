@@ -3,7 +3,7 @@ This repository contains some dafny programs that I have worked in verifying.
 * automaton.dfy containing an automaton containing every step of applying a certain rule over an input sequence
 * map-multiset-implementation.dfy containing an implementation of a multiset ADT using a map.
 * prime-database.dfy containing a PrimeMap class that remembers whether a number is prime or not.
-* invertarray.dfy a simple, yet representative program for Dafny.
+* invertarray.dfy a simple, yet representative program for the thought process of creating invariants.
 
 I recommend checking out automaton.dfy and map-multiset-implementation.dfy.
 
