@@ -1,5 +1,5 @@
 # DafnyPrograms
-This repository contains some dafny programs that I have worked in verifying. 
+This repository contains a selection of Dafny programs that I have worked in verifying. 
 * automaton.dfy containing an automaton containing every step of applying a certain rule over an input sequence
 * map-multiset-implementation.dfy containing an implementation of a multiset ADT using a map.
 * prime-database.dfy containing a PrimeMap class that remembers whether a number is prime or not.
@@ -11,7 +11,7 @@ When a program is verified by Dafny, it means that Dafny has checked the program
 
 # Requirements
 * Visual Studio Code
-* Dafny extension
+* Dafny extension (Dafny 4.0.0)
 
 # Usage
 1. Open the programs in Visual Studio Code.
